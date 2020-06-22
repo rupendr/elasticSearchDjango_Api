@@ -15,6 +15,9 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 ```bash
+python manage.py search_index --rebuild
+```
+```bash
 python manage.py runserver
 ```
 

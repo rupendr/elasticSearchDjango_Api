@@ -23,7 +23,7 @@ urlpatterns = [
 
 ]
 # {
-#     "document_id": 1,
+#      "document_id": 1,
 #     "price": 888,
 #     "brand": "kia",
 #     "model": "xuv",
