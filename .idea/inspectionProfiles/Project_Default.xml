@@ -1,0 +1,59 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="18">
+            <item index="0" class="java.lang.String" itemvalue="six" />
+            <item index="1" class="java.lang.String" itemvalue="cytoolz" />
+            <item index="2" class="java.lang.String" itemvalue="certifi" />
+            <item index="3" class="java.lang.String" itemvalue="cffi" />
+            <item index="4" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="5" class="java.lang.String" itemvalue="cryptography" />
+            <item index="6" class="java.lang.String" itemvalue="pycparser" />
+            <item index="7" class="java.lang.String" itemvalue="requests" />
+            <item index="8" class="java.lang.String" itemvalue="urllib3" />
+            <item index="9" class="java.lang.String" itemvalue="eth-utils" />
+            <item index="10" class="java.lang.String" itemvalue="idna" />
+            <item index="11" class="java.lang.String" itemvalue="wcwidth" />
+            <item index="12" class="java.lang.String" itemvalue="Django" />
+            <item index="13" class="java.lang.String" itemvalue="flake8" />
+            <item index="14" class="java.lang.String" itemvalue="Pillow" />
+            <item index="15" class="java.lang.String" itemvalue="prettytable" />
+            <item index="16" class="java.lang.String" itemvalue="bs4" />
+            <item index="17" class="java.lang.String" itemvalue="youtube-dl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.contrib.auth.UserAdmin" />
+          <option value="app.user.views.user" />
+          <option value="app.core.models.recipe_image_file_path" />
+          <option value="paytm.notes.views.notes_list" />
+          <option value="paytm.notes.views.notes_add" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
